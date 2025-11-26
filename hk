@@ -1,0 +1,5 @@
+git remote add origin https://github.com/username/repo.git
+git push -u origin main
+git pull
+git checkout -b feature-branch
+ git checkout main 
